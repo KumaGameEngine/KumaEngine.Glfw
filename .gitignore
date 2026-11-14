@@ -2,3 +2,4 @@
 /obj
 /runtimes
 Source/Native/GLFWNative.cs
+/bin

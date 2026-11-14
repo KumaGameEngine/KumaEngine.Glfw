@@ -5,6 +5,24 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Title>KumaEngine.Glfw</Title>
+    <Description>managed bindings for glfw</Description>
+    <Copyright></Copyright>
+    <PackageProjectUrl>https://github.com/KumaGameEngine/KumaEngine.Glfw</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/KumaGameEngine/KumaEngine.Glfw</RepositoryUrl>
+    <PackageTags>glfw; bindings</PackageTags>
+    <AssemblyVersion></AssemblyVersion>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <FileVersion>1.0.0-glfw3.5.1</FileVersion>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\RePAK\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
